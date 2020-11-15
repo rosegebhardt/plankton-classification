@@ -1,5 +1,5 @@
 # plankton-classification
-Welcome to the Chum Bucket
+
 
 f is for fire that burns down the whole town
 
